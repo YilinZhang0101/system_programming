@@ -1,0 +1,9 @@
+cd ..
+ls
+sleep 2
+echo Finished!
+echo haha && echo hehe
+echo ah!
+cd shell
+echo lala
+echo hi
